@@ -1,1 +1,2 @@
 # AsyncFunctions
+npm i
